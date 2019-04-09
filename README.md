@@ -27,3 +27,6 @@ libre place à votre imagination, et rajoutez de nouvelles fonctionnalités.
 Contraintes générales
 L’échange de message doit être fait en utilisant le modelé à évènement.
 Séparer le plus possible la parte « logique de l’application » de la partie interface graphique. 
+
+## Lien du Trello : 
+https://trello.com/b/jtCFiA8h/robotfleet
